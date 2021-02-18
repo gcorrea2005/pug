@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Curso de nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src",
+    "dev": "nodemon src"
+  },
+  "keywords": [],
+  "author": "Giovanni Correa",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0",
+    "nodemon": "^2.0.7"
+  }
+}
